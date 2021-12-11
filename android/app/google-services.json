@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374662582826",
+    "project_id": "scanify-57edf",
+    "storage_bucket": "scanify-57edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374662582826:android:8a53e87cdfc374a8d86953",
+        "android_client_info": {
+          "package_name": "com.qrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374662582826-n7popnef36ucjieni1cup0jlcp3ljk35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27eMt3ASYfoNswkcvRFXGUuzfT2DfeZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374662582826-n7popnef36ucjieni1cup0jlcp3ljk35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
